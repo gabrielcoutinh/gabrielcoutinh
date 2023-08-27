@@ -1,9 +1,14 @@
-<!-- ### Hi there 👋
+<hr>
 
-**gbrcoutinho/gbrcoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<!-- Banner -->
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
+<div>
+<!-- About Me -->
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +17,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</div>
+
+<hr>
+
+<div>
+<!-- Tech Stack -->
+</div>
+
+<hr>
+
+<div>
+<!-- Footer -->
+</div>
