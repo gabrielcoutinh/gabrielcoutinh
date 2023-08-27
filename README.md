@@ -6,7 +6,7 @@
 <div align="center">
   <img height="140" align="right" src="./assets/tux.gif" />
   <h3>Hello, world!</h3>
-  <p>O computador a bordo, na verdade, tinha a capacidade de processamento de um notebook de brinquedo dos dias atuais. Com o nome de Apollo Guidance Computer (AGC), ele tinha pouco mais de 4 MB de memória RAM para leitura de dados, além de 72 KB de memória ROM.</p>
+  <p>O computador a bordo, na verdade, tinha a capacidade de processamento de um notebook de brinquedo dos dias atuais. Com o nome de Apollo Guidance Computer (AGC), ele tinha pouco mais de 4 MB de memória RAM para leitura de dados, além de 72 KB de memória ROM. <a href="https://canalte.ch/cp2/p3d05">Fonte</a></p>
 <hr>
 <div align="center">
   <h3>Sobre mim</h3>
@@ -24,21 +24,12 @@
     </a>
   </div>
   <div>
-    <p>Front End:</p>
+    <p>Languages & Frameworks:</p>
     <a href="https://skillicons.dev">
-      <img height="40em" src="https://skillicons.dev/icons?i=js,ts,tailwind,react,next" />
-    </a>
-  </div>
-    <div align="center">
-    <p>Back End:</p>
-    <a href="https://skillicons.dev">
-      <img height="40em" src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+      <img height="40em" src="https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,mongodb" />
     </a>
   </div>
 </div>
-<hr>
-<div>
-  <h3>Github Status</h3></div>
 <hr>
 <div align="center">
   <img src="./assets/footer.gif" />
