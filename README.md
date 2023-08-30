@@ -18,13 +18,11 @@
   <h3>👨🏽‍💻 Tech Stack</h3>
   <img height="140" align="left" src="./assets/tux-2.gif" />
     <div>
-    <p>Tools:</p>
     <a href="https://skillicons.dev">
       <img height="40em" src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md" />
     </a>
   </div>
   <div>
-    <p>Languages & Frameworks:</p>
     <a href="https://skillicons.dev">
       <img height="40em" src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,next,js,ts,tailwind,html,css" />
     </a>
