@@ -26,7 +26,7 @@
   <div>
     <p>Languages & Frameworks:</p>
     <a href="https://skillicons.dev">
-      <img height="40em" src="https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,firebase,mongodb" />
+      <img height="40em" src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,next,nodejs,firebase,mongodb" />
     </a>
   </div>
 </div>
