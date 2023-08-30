@@ -24,7 +24,7 @@
   </div>
   <div>
     <a href="https://skillicons.dev">
-      <img height="40em" src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,next,js,ts,tailwind,html,css" />
+      <img height="40em" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,react,next,js,ts,tailwind,html,css" />
     </a>
   </div>
 </div>
