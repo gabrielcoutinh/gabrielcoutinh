@@ -18,19 +18,39 @@
 <hr>
 <div align="center">
   <h3>👨🏽‍💻 Tech Stack</h3>
-  <img height="140" align="left" src="./assets/tux-2.gif" />
-  <a href="https://skillicons.dev">
+  <img height="180" align="left" src="./assets/tux-2.gif" />
+    <div>
+    <a href="https://skillicons.dev">
       <img height="40em" src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md" />
     </a>
     <a href="https://skillicons.dev">
       <img height="40em" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,react,next,js,ts,tailwind,html,css" />
     </a>
+    <a href="https://skillicons.dev">
+      <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
+    </a>
+    </div>
   </div>
 </div>
 <hr>
+
 <div>
   <h3>📊 Github Status</h3>
+  <a href="https://github.com/gbrcoutinho/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true" />
+  </a>
+
+  <a href="https://github.com/gbrcoutinho/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&card_width=320&count_private=trues&how_icons=true" />
+  </a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  </a> -->
 </div>
+
 <hr>
 <div align="center">
   <img src="./assets/footer.gif" />
