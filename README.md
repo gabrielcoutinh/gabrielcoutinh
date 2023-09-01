@@ -33,13 +33,13 @@
   </div>
 </div>
 <hr>
-<div>
+<div align="center">
   <h3>📊 Github Status</h3>
   <a href="https://github.com/gbrcoutinho/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true&theme=tokyonight&theme=transparentbg_color=00000000" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true&theme=tokyonight&theme=transparentbg_color=00000000" />
   </a>
   <a href="https://github.com/gbrcoutinho/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&card_width=320&count_private=trues&how_icons=true&theme=tokyonight&theme=transparentbg_color=00000000" />
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&card_width=320&count_private=trues&how_icons=true&theme=tokyonight&theme=transparentbg_color=00000000" />
   </a>
 </div>
 <hr>
