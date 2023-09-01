@@ -27,8 +27,8 @@
 </div>
 <hr />
 <div align="center">
-  <h3>👨🏽‍💻 Tech Stack</h3>
   <img height="180" align="left" src="./assets/tux-2.gif" />
+  <h3>👨🏽‍💻 Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img
       height="40em"
