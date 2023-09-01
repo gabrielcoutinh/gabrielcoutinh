@@ -32,14 +32,17 @@
   <a href="https://skillicons.dev">
     <img
       height="40em"
-      src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
+      src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md,docker"
     />
   </a>
   <a href="https://skillicons.dev">
     <img
       height="40em"
-      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,react,next,js,ts,tailwind,html,css"
+      src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,next,js,ts,tailwind,html,css"
     />
+  </a>
+  <a href="https://skillicons.dev">
+    <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
   </a>
 </div>
 <hr />
