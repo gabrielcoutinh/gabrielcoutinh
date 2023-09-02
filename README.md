@@ -70,7 +70,7 @@
 <hr />
 <div align="center">
   <img
-    align="left"
+    align="right"
     height="50"
     src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
   />
