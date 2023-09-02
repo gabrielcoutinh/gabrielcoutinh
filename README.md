@@ -42,7 +42,7 @@
     />
   </a>
   <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
+    <img height="40em" src="https://skillicons.dev/icons?i=n" />
   </a>
 </div>
 <hr />
