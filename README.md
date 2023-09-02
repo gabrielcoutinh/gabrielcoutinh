@@ -74,6 +74,6 @@
     height="50"
     src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
   />
-  <h3>~Support me with your⭐~</h3>
+  <h3>~Support me with your:⭐~</h3>
 </div>
 <hr />
