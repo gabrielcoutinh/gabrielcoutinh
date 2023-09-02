@@ -68,3 +68,23 @@
   <img src="./assets/footer.gif" />
 </div>
 <hr />
+<div align="center">
+  <h3>
+    <img
+      align="left"
+      height="50"
+      src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
+    />
+    <img
+      align="center"
+      height="50"
+      src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
+    />
+    <img
+      align="right"
+      height="50"
+      src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
+    />
+  </h3>
+</div>
+<hr />
