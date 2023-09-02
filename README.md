@@ -32,7 +32,7 @@
   <a href="https://skillicons.dev">
     <img
       height="40em"
-      src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md,docker"
+      src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
     />
   </a>
   <a href="https://skillicons.dev">
