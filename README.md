@@ -29,18 +29,22 @@
 <div align="center">
   <img height="180" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img
-      height="40em"
-      src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
-    />
-  </a>
-  <a href="https://skillicons.dev">
-    <img
-      height="40em"
-      src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,ts,tailwind,html,css"
-    />
-  </a>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img
+        height="40em"
+        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
+      />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img
+        height="40em"
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,ts,tailwind,html,css"
+      />
+    </a>
+  </div>
   <a href="https://skillicons.dev">
     <img height="40em" src="https://skillicons.dev/icons?i=n" />
   </a>
