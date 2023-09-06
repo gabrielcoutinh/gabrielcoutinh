@@ -33,7 +33,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
+        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md,docker"
       />
     </a>
   </div>
@@ -41,7 +41,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,react,js,ts,tailwind,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,js,ts,tailwind,html,css"
       />
     </a>
   </div>
