@@ -54,16 +54,16 @@
   <h3>📊 Github Status</h3>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
-      height="170"
+      height="190"
       align="center"
       src="https://github-readme-stats-gbrcoutinho.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
     />
   </a>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
-      height="170"
+      height="190"
       align="center"
-      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&count_private=trues&how_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
+      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
     />
   </a>
 </div>
