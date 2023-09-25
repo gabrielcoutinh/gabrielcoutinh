@@ -75,6 +75,6 @@
     height="50"
     src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
   />
-  <h3>~🔗Let's connect?~</h3>
+  <h3>🔗Let's connect?</h3>
 </div>
 <hr />
