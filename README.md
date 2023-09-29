@@ -5,7 +5,7 @@
 <hr />
 <div align="center">
   <img height="140" align="right" src="./assets/tux.gif" />
-  <h3>🖖 Hello, world!</h3>
+  <h3>🖖 Hello world</h3>
   <p>
     O computador a bordo, na verdade, tinha a capacidade de processamento de um
     notebook de brinquedo dos dias atuais. Com o nome de Apollo Guidance
