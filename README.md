@@ -1,11 +1,20 @@
 <hr />
 <div align="center">
+  <img
+    align="left"
+    height="50"
+    src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
+  />
+  <h3>🔗Let's connect?</h3>
+</div>
+<hr />
+<div align="center">
   <img src="./assets/header.gif" />
 </div>
 <hr />
 <div align="center">
   <img height="140" align="right" src="./assets/tux.gif" />
-  <h2>🖖 Hello world</h2>
+  <h3>🖖 Hello world</h3>
   <p>
     O computador a bordo, na verdade, tinha a capacidade de processamento de um
     notebook de brinquedo dos dias atuais. Com o nome de Apollo Guidance
@@ -17,7 +26,7 @@
 </div>
 <hr />
 <div align="center">
-  <h2>🧐 Sobre mim</h2>
+  <h3>🧐 Sobre mim</h3>
   <p>
     Desenvolvedor full stack, com foco no back end. Experiência na criação de
     soluções: front end, mobile & back end. Constantemente, viso aderir às
@@ -28,7 +37,7 @@
 <hr />
 <div align="center">
   <img height="180" align="left" src="./assets/tux-2.gif" />
-  <h2>👨🏽‍💻 Tech Stack</h2>
+  <h3>👨🏽‍💻 Tech Stack</h3>
   <div align="center">
     <p><i>Tool's</i></p>
     <a href="https://skillicons.dev">
@@ -59,7 +68,7 @@
 </div>
 <hr />
 <div align="center">
-  <h2>📊 Github Status</h2>
+  <h3>📊 Github Status</h3>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
       height="200em"
@@ -86,6 +95,6 @@
     height="50"
     src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
   />
-  <h2>🔗Let's connect?</h2>
+  <h3>🔗Let's connect?</h3>
 </div>
 <hr />
