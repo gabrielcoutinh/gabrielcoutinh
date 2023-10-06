@@ -43,7 +43,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,next,js,ts,tailwind,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,react,next,js,ts,tailwind,html,css"
       />
     </a>
   </div>
@@ -52,7 +52,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=c,python,dart,flutter,wordpress"
+        src="https://skillicons.dev/icons?i=c,python,dart,flutter,firebase,wordpress"
       />
     </a>
   </div>
