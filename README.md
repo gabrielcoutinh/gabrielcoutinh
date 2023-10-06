@@ -1,7 +1,7 @@
 <hr />
 <div align="center">
   <img
-    align="left"
+    align="right"
     height="50"
     src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
   />
@@ -87,14 +87,5 @@
 <hr />
 <div align="center">
   <img src="./assets/footer.gif" />
-</div>
-<hr />
-<div align="center">
-  <img
-    align="right"
-    height="50"
-    src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
-  />
-  <h3>🔗Let's connect?</h3>
 </div>
 <hr />
