@@ -64,14 +64,14 @@
     <img
       height="200em"
       align="center"
-      src="https://github-readme-stats-gbrcoutinho.vercel.app/api?username=gbrcoutinho&show=reviews,prs_merged&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000&layout=compact"
+      src="https://github-readme-stats-gbrcoutinho.vercel.app/api?username=gbrcoutinho&hide_title=true&show=reviews,prs_merged&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000&layout=compact"
     />
   </a>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
       height="200em"
       align="center"
-      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000&layout=compact"
+      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&hide_title=true&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000&layout=compact"
     />
   </a>
 </div>
