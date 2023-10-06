@@ -30,6 +30,7 @@
   <img height="180" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
   <div align="center">
+    <p><i>Tool's</i></p>
     <a href="https://skillicons.dev">
       <img
         height="40em"
@@ -38,10 +39,20 @@
     </a>
   </div>
   <div align="center">
+    <p><i>I currently work with</i></p>
     <a href="https://skillicons.dev">
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,next,js,ts,tailwind,html,css"
+      />
+    </a>
+  </div>
+  <div align="center">
+    <p><i>I've already had contact</i></p>
+    <a href="https://skillicons.dev">
+      <img
+        height="40em"
+        src="https://skillicons.dev/icons?i=c,python,dart,flutter,wordpress"
       />
     </a>
   </div>
@@ -51,16 +62,16 @@
   <h3>📊 Github Status</h3>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
-      height="180"
+      height="195"
       align="center"
-      src="https://github-readme-stats-gbrcoutinho.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
+      src="https://github-readme-stats-gbrcoutinho.vercel.app/api?username=gbrcoutinho&show=reviews,prs_merged&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
     />
   </a>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
     <img
-      height="180"
+      height="195"
       align="center"
-      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
+      src="https://github-readme-stats-gbrcoutinho.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
     />
   </a>
 </div>
