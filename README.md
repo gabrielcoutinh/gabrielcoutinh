@@ -48,6 +48,7 @@
   </div>
 </div>
 <hr />
+<br>
 <div align="center">
   <h3>📊 Github Status</h3>
   <a href="https://github.com/gbrcoutinho/gbrcoutinho">
