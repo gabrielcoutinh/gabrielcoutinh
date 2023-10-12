@@ -39,29 +39,10 @@
   <img height="180" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
   <div align="center">
-    <p><i>Tool's</i></p>
-    <a href="https://skillicons.dev">
-      <img
-        height="40em"
-        src="https://skillicons.dev/icons?i=linux,figma,vscode,postman,docker,git,github,md"
-      />
-    </a>
-  </div>
-  <div align="center">
-    <p><i>I currently work with</i></p>
     <a href="https://skillicons.dev">
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,mongodb,react,next,js,ts,tailwind,html,css"
-      />
-    </a>
-  </div>
-  <div align="center">
-    <p><i>I've already had contact</i></p>
-    <a href="https://skillicons.dev">
-      <img
-        height="40em"
-        src="https://skillicons.dev/icons?i=c,python,dart,flutter,firebase,wordpress"
       />
     </a>
   </div>
