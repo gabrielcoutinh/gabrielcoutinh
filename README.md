@@ -33,7 +33,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,react,next,js,ts,tailwind,html,css"
+        src="https://skillicons.dev/icons?i="
       />
     </a>
   </div>
