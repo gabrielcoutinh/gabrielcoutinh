@@ -1,8 +1,6 @@
-<hr />
 <div align="center">
   <img src="./assets/header.gif" />
 </div>
-<hr />
 <div align="center">
   <img height="140" align="right" src="./assets/tux.gif" />
   <h3>🖖 Hello world</h3>
@@ -15,7 +13,6 @@
     >
   </p>
 </div>
-<hr />
 <div align="center">
   <h3>🧐 Sobre mim</h3>
   <p>
@@ -25,7 +22,6 @@
     e testes. Assim extraindo o melhor das tecnologias.
   </p>
 </div>
-<hr />
 <div align="center">
   <img height="180" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
@@ -38,4 +34,3 @@
     </a>
   </div>
 </div>
-<hr />
