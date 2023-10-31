@@ -1,17 +1,12 @@
 <hr />
 <div align="center">
-  <img src="./assets/header.gif" />
-</div>
-<hr />
-<div align="center">
   <img height="140" align="right" src="./assets/tux.gif" />
   <h3>🖖 Hello, world!</h3>
   <p>
-    O computador a bordo, na verdade, tinha a capacidade de processamento de um
-    notebook de brinquedo dos dias atuais. Com o nome de Apollo Guidance
+    Com o nome de Apollo Guidance
     Computer (AGC), ele tinha pouco mais de 4 MB de memória RAM para leitura de
     dados, além de 72 KB de memória ROM.<a href="https://canalte.ch/cp2/p3d05"
-      >Fonte</a
+      > Fonte</a
     >
   </p>
 </div>
@@ -48,36 +43,5 @@
   <a href="https://skillicons.dev">
     <img height="40em" src="https://skillicons.dev/icons?i=n" />
   </a>
-</div>
-<hr />
-<div align="center">
-  <h3>📊 Github Status</h3>
-  <a href="https://github.com/gbrcoutinho/gbrcoutinho">
-    <img
-      height="170"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=gbrcoutinho&count_private=true&show_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
-    />
-  </a>
-  <a href="https://github.com/gbrcoutinho/gbrcoutinho">
-    <img
-      height="170"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=gbrcoutinho&layout=compact&langs_count=8&count_private=trues&how_icons=true&theme=tokyonight&theme=transparent&bg_color=00000000"
-    />
-  </a>
-</div>
-<hr />
-<div align="center">
-  <img src="./assets/footer.gif" />
-</div>
-<hr />
-<div align="center">
-  <img
-    align="right"
-    height="50"
-    src="https://count.getloli.com/get/@gbrcoutinho.github.readme"
-  />
-  <h3>~Let's connect?🔗~</h3>
 </div>
 <hr />
