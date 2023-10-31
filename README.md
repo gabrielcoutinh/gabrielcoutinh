@@ -23,7 +23,7 @@
 </div>
 <hr />
 <div align="center">
-  <img height="180" align="left" src="./assets/tux-2.gif" />
+  <img height="140" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
   <div align="center">
     <a href="https://skillicons.dev">
@@ -37,6 +37,6 @@
       />
       <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
     </a>
-    <hr />
   </div>
+  <hr />
 </div>
