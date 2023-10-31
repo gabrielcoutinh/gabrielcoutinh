@@ -1,6 +1,6 @@
 <hr />
 <div align="center">
-  <img height="140" align="right" src="./assets/tux.gif" />
+  <img height="120" align="right" src="./assets/tux.gif" />
   <h3>🖖 Hello, world!</h3>
   <p>
     Com o nome de Apollo Guidance Computer (AGC), ele tinha pouco mais de 4 MB
@@ -23,7 +23,7 @@
 </div>
 <hr />
 <div align="center">
-  <img height="140" align="left" src="./assets/tux-2.gif" />
+  <img height="120" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
   <div align="center">
     <a href="https://skillicons.dev">
