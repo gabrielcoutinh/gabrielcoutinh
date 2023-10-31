@@ -29,13 +29,13 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
-      />
-      <img
-        height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css"
       />
       <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
+      <img
+        height="40em"
+        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
+      />
     </a>
   </div>
   <hr />
