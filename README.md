@@ -13,35 +13,39 @@
 <hr />
 <div align="center">
   <h3>🧐 Sobre mim</h3>
-  <p>
-    Desenvolvedor full stack, com foco no back end. Experiência na criação de
-    soluções: front end, mobile & back end. Constantemente, viso aderir às
-    melhoras praticas de codificação, bem como: arquitetura limpa, código limpo
-    e testes. Assim extraindo o melhor das tecnologias.
-  </p>
+  <p>• Apaixonado por tecnologia desde 2018.</p>
+  <p>• Como engenheiro de software busco constantemente me aprimorar e ficar a par das melhores praticas no desenvolvimento de software. </p>
+  <p>• Acredito que antes da tecnologia vem a solução.</p> 
 </div>
 <hr />
 <div align="center">
   <img height="180" align="left" src="./assets/tux-2.gif" />
   <h3>👨🏽‍💻 Tech Stack</h3>
+  <p>Tools:</p>
   <div align="center">
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=linux,figma,vscode,postman,docker,git,github,md"
+        src="https://skillicons.dev/icons?i=linux,figma,vscode,git,github,md"
       />
     </a>
   </div>
+    <p>Main:</p>
   <div align="center">
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,react,js,ts,tailwind,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css"
       />
     </a>
   </div>
-  <a href="https://skillicons.dev">
-    <img height="40em" src="https://skillicons.dev/icons?i=n" />
-  </a>
-</div>
+    <p>Others:</p>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img
+        height="40em"
+        src="https://skillicons.dev/icons?i=c,python"
+      />
+    </a>
+  </div>
 <hr />
