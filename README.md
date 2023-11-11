@@ -1,6 +1,5 @@
 <hr />
 <div align="center">
-  <img height="120" align="right" src="./assets/tux.gif" />
   <h3>🖖 Hello, world!</h3>
   <p>
     Named the Apollo Guidance Computer (AGC), it was just over 4 MB of RAM
@@ -10,6 +9,7 @@
       Fonte</a
     >
   </p>
+  <img height="140" align="right" src="./assets/tux.gif" />
 </div>
 <hr />
 <div align="center">
@@ -23,8 +23,8 @@
 </div>
 <hr />
 <div align="center">
-  <img height="120" align="left" src="./assets/tux-2.gif" />
   <h3>👨‍💻 Tech Stack</h3>
+  <img height="140" align="left" src="./assets/tux-2.gif" />
   <div align="center">
     <a href="https://skillicons.dev">
       <p>I work with</p>
@@ -32,9 +32,9 @@
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css"
       />
-      <p>I already studied | I am interested</p>
+      <p>I already studied || I am interested</p>
       <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
-      <p>Other tools I use or have used</p>
+      <p>Other tools I work or have worked</p>
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=linux,figma,vscode,docker,postman,git,github,md"
