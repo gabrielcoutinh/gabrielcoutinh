@@ -6,7 +6,7 @@
     memory for reading data, in addition to 72 KB of ROM memory.<a
       href="https://canalte.ch/cp2/p3d05"
     >
-      Fonte</a
+      Font</a
     >
   </p>
   <img height="140" align="right" src="./assets/tux.gif" />
