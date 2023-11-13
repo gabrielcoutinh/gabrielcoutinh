@@ -32,7 +32,7 @@
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css"
       />
-      <p>I already studied || I am interested</p>
+      <p>I already studied or I am interested</p>
       <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
       <p>Other tools I work or have worked</p>
       <img
