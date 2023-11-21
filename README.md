@@ -30,7 +30,7 @@
       <p>I work with</p>
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css,sass,bootstrap"
       />
       <p>I already studied or I am interested</p>
       <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
