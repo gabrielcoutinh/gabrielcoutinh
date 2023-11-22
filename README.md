@@ -26,13 +26,12 @@
   <h3>👨‍💻 Tech Stack</h3>
   <img height="140" align="left" src="./assets/tux-2.gif" />
   <div align="center">
+    <p>I work, have worked or I am interested</p>
     <a href="https://skillicons.dev">
-      <p>I work with</p>
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,mongo,sequelize,postgresql,react,javascript,typescript,bootstrap,sass,html,css"
       />
-      <p>Other tools I work, have worked or I am interested</p>
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=c,python,git,github,md,linux,figma,vscode,docker,postman"
