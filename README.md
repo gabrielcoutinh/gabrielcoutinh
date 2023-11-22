@@ -30,15 +30,13 @@
       <p>I work with</p>
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongo,react,javascript,typescript,bootstrap,sass,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,mongo,sequelize,postgresql,react,javascript,typescript,bootstrap,sass,html,css"
       />
-      <p>Other tools I work or have worked</p>
+      <p>Other tools I work, have worked or I am interested</p>
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=linux,figma,vscode,docker,postman,git,github,md"
+        src="https://skillicons.dev/icons?i=c,python,git,github,md,linux,figma,vscode,docker,postman"
       />
-      <p>I already studied or I am interested</p>
-      <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
     </a>
   </div>
   <hr />
