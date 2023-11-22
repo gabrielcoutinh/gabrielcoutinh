@@ -14,12 +14,9 @@
 <hr />
 <div align="center">
   <h3>🧐 About me</h3>
-  <p>• Passionate about technology since 2018.</p>
-  <p>
-    • As a software engineer, I constantly seek to improve myself and improve
-    par with best practices in software development.
-  </p>
-  <p>• I believe that before technology comes the solution.</p>
+  <p>• Passionate about technology since 2018. I like to learn and update myself whenever I can.</p>
+  <p>• I consider myself communicative and I believe that teamwork is not only necessary, but also the best way to obtain results.</p>
+  <p>• As a software engineer, I constantly seek to improve myself and stay up to date with the best practices in software development; because I believe that before the technologies used come the solution.</p>
 </div>
 <hr />
 <div align="center">
