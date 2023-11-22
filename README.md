@@ -32,13 +32,13 @@
         height="40em"
         src="https://skillicons.dev/icons?i=nodejs,react,javascript,typescript,html,css,sass,bootstrap"
       />
-      <p>I already studied or I am interested</p>
-      <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
       <p>Other tools I work or have worked</p>
       <img
         height="40em"
         src="https://skillicons.dev/icons?i=linux,figma,vscode,docker,postman,git,github,md"
       />
+      <p>I already studied or I am interested</p>
+      <img height="40em" src="https://skillicons.dev/icons?i=c,python" />
     </a>
   </div>
   <hr />
