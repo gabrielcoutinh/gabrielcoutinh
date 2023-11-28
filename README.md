@@ -31,7 +31,7 @@
       />
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=c,python,git,github,md,linux,figma,vscode,docker,postman"
+        src="https://skillicons.dev/icons?i=c,python,flask,git,github,md,linux,figma,vscode,docker,postman"
       />
     </a>
   </div>
