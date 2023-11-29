@@ -27,7 +27,7 @@
     <a href="https://skillicons.dev">
       <img
         height="40em"
-        src="https://skillicons.dev/icons?i=nodejs,mongo,sequelize,postgresql,react,javascript,typescript,bootstrap,sass,html,css"
+        src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,react,javascript,typescript,bootstrap,sass,html,css"
       />
       <img
         height="40em"
