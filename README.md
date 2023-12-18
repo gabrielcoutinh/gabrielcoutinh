@@ -35,11 +35,11 @@
   <p>I work, have worked or I am interested...</p>
   <a href="https://skillicons.dev">
     <img
-      height="40em"
+      height="38em"
       src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,next,javascript,typescript,tailwindcss,sass,html,css"
     />
     <img
-    height="40em"
+    height="38em"
     src="https://skillicons.dev/icons?i=c,python,flask,git,github,md,linux,figma,vscode,docker,postman"
   />
   </a>
