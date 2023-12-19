@@ -1,6 +1,6 @@
 <hr />
 <div align="center">
-  <img height="160" align="right" src="./assets/tux.gif" />
+  <img height="140" align="right" src="./assets/tux.gif" />
   <h3>🖖 Hello, world!</h3>
   <p>
     Named the Apollo Guidance Computer (AGC), it was just over 4 MB of RAM
@@ -30,7 +30,7 @@
 </div>
 <hr />
 <div align="center">
-  <img height="160" align="left" src="./assets/tux-2.gif" />
+  <img height="140" align="left" src="./assets/tux-2.gif" />
   <h3>👨‍💻 Tech Stack</h3>
   <p>I work, have worked or I am interested...</p>
   <a href="https://skillicons.dev">
