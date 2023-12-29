@@ -38,9 +38,12 @@
       height="36em"
       src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,next,javascript,typescript,tailwindcss,sass,html,css"
     />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
     <img
     height="36em"
-    src="https://skillicons.dev/icons?i=c,python,flask,git,github,md,linux,figma,vscode,docker,postman"
+    src="https://skillicons.dev/icons?i=git,github,md,linux,figma,vscode,docker,postman"
   />
   </a>
 </div>
