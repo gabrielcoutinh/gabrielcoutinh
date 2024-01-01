@@ -31,15 +31,9 @@
   <p>I work, have worked or I am interested...</p>
   <a href="https://skillicons.dev">
     <img
-      height="36em"
-      src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,next,javascript,typescript,tailwindcss,sass,html,css"
+      height="75em"
+      src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,next,javascript,typescript,tailwindcss,sass,html,css,git,github,md,linux,figma,vscode,docker,postman"
     />
-  </a>
-  <a href="https://skillicons.dev">
-    <img
-    height="36em"
-    src="https://skillicons.dev/icons?i=git,github,md,linux,figma,vscode,docker,postman"
-  />
   </a>
 </div>
 <hr />
