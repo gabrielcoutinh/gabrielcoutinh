@@ -15,10 +15,6 @@
 <div align="center">
   <h3>🧐 About me</h3>
   <p>
-    • Passionate about technology since 2018. I like to learn and update myself
-    whenever I can.
-  </p>
-  <p>
     • I consider myself communicative and I believe that teamwork is not only
     necessary, but also the best way to obtain results.
   </p>
@@ -39,7 +35,6 @@
       src="https://skillicons.dev/icons?i=nodejs,mongo,postgresql,next,javascript,typescript,tailwindcss,sass,html,css"
     />
   </a>
-  <br>
   <a href="https://skillicons.dev">
     <img
     height="36em"
