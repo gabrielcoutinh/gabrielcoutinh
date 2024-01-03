@@ -17,7 +17,7 @@
   <p>
     As a software engineer, I constantly seek to improve myself and stay up to
     date with the best practices in software development; because I believe that
-    before the technologies used come the solution.
+    before the chosen technologies come the solution.
   </p>
 </div>
 <hr />
