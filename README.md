@@ -24,7 +24,6 @@
 <div align="center">
   <img height="140" align="left" src="./assets/tux-2.gif" />
   <h3>👨‍💻 Tech Stack</h3>
-  <p>I work, have worked or I am interested...</p>
   <a href="https://skillicons.dev">
     <img
       height="75em"
