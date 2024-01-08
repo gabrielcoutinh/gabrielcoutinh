@@ -4,11 +4,7 @@
   <h3>🖖 Hello, world!</h3>
   <p>
     Named the Apollo Guidance Computer (AGC), it was just over 4 MB of RAM
-    memory for reading data, in addition to 72 KB of ROM memory.<a
-      href="https://canalte.ch/cp2/p3d05"
-    >
-      Font</a
-    >
+    memory for reading data, in addition to 72 KB of ROM memory.
   </p>
 </div>
 <hr />
